@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shreya302006
 - 👀 I’m interested in Web Development and UI/UX Designing.
-- 🌱 I’m currently learni.ng Web Development.
+- 🌱 I’m currently learning Web Development.
 - 😄 Pronouns: she/her
 
 <!---
